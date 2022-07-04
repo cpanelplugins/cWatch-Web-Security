@@ -70,6 +70,6 @@ To use cWatch Web CPANEL module, the hosting provider must have a valid cWatch W
 
 ## GETTING STARTED
 
-1. Sign up for a cWatch Web Partner Account
-2. Download the cWatch Web CPANEL module
+1. <a href="https://accounts.comodo.com/reseller/management/create_account?display_group=cw">Sign up for a cWatch Web Partner Account</a>
+2. <a href="https://help.comodo.com/uploads/helpers/Comodo_cWatch_Agent_Installation%20Guide.pdf">Download the cWatch Web CPANEL module</a>
 3. Start distributing licenses!
